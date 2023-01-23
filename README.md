@@ -2,6 +2,8 @@
 
 En este repositorio vamos a practicar python.
 
+## Git y github
+
 Hemos aprendido a utilizar **git** y **github**. Los comandos más importantes
 que utilizaremos son:
 
